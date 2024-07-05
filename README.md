@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F05uhd2ihjs671.gif%3Fwidth%3D1920%26auto%3Dwebp%26s%3D2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
+<img align="right" alt="coding" width="400" src="github_readme2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shkumar&label=Profile%20views&color=0e75b6&style=flat" alt="1shkumar" /> </p>
 
