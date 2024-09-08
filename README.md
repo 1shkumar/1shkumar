@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **blockchain, generative AI and agentic tools.**
 
-- 📫 How to reach me **vansh.kumar.ug21@nsut.ac.in**
+- 📫 How to reach me **vanshkr22@gmail.com**, **vansh.kumar.ug21@nsut.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
